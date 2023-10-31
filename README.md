@@ -1,11 +1,7 @@
 # Pizza-Sales-Analysis
-Certainly! Here's an expanded and simplified description for your GitHub project:
 
----
 
 **Project Title: Pizza Sales Analytics**
-
-**Description:**
 
 Welcome to the Pizza Sales Analytics project! In this project, we've gone through a thorough process to transform raw pizza sales data into valuable insights for your business. Here's a breakdown of what we've accomplished:
 
