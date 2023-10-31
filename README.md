@@ -25,4 +25,12 @@ In summary, this project encompasses data cleaning, data mining, data extraction
 
 Explore our repository to see the code and resources behind this project, and use the insights to take your pizza business to the next level!
 
----
+DASHBOARD 
+
+---![Pizza Sales dashbaord - 1](https://github.com/Shivamgautam79/Pizza-Sales-Analysis/assets/149200088/2bfaa5ff-be4d-4d54-ac50-71e8270db0f6)
+
+
+
+![Pizza Sales dashbaord - 2](https://github.com/Shivamgautam79/Pizza-Sales-Analysis/assets/149200088/6ac22716-8497-4075-a0c5-1ba828eb79d3)
+
+
